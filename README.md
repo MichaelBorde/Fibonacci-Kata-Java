@@ -1,4 +1,4 @@
 FibonacciJava
 =============
 
-Kata Fibonacci en Java
+Kata Fibonacci en Java, version récursive terminale.
