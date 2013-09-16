@@ -1,4 +1,4 @@
-package FibonacciJava;
+package fibonacci;
 
 import static org.fest.assertions.Assertions.*;
 

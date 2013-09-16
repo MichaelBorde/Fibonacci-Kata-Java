@@ -1,4 +1,4 @@
-package FibonacciJava;
+package fibonacci;
 
 public class Fibonacci {
 
